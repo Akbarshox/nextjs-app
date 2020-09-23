@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Shoka",
+      "title": "Migos",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,"
+    },
+    {
+      "id":  2,
+      "name": "Tima",
+      "title": "Latos",
+      "body": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. "
+    },
+    {
+      "id":  3,
+      "name": "John",
+      "title": "Ny",
+      "body": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable"
+    }
+  ]
+}
